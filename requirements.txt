@@ -6,4 +6,4 @@ investpy
 matplotlib
 seaborn
 plotly
-fundamentus2
+fundamentus
